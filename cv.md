@@ -7,3 +7,13 @@
 + **Telegram:** @
 
 ## About Me
+
+## Skills
+
+## Code Example
+
+## Experience
+
+## Education
+
+## Languages
